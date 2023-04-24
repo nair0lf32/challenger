@@ -29,4 +29,4 @@ Challenger (code) is a simple repository to display my mediocre competitive prog
 - [codeforces](https://codeforces.com/profile/nairolf32)
 - [hackerearth](https://www.hackerearth.com/@florianedem)
 
-If you wanna see some of m[my favorite learning places](./learning.md), [my certs](./certificates.md) or just the [tools I use](./tech.md) follow the links
+If you wanna see some of [my favorite learning places](./learning.md), [my certs](./certificates.md) or just the [tools I use](./tech.md) follow the links

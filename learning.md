@@ -3,7 +3,7 @@
 ## Learning
 
 - [Alx](https://www.alxafrica.com/) and [theRoom](https://member.theroom.com/profile/56e7f6e1-909c-42d9-8747-b6b369de4bbb)
-- [Openclassrooms](https://openclassrooms.com/)
+- [Openclassrooms](https://openclassrooms.com/fr/members/1cpcd2fcv2s9)
 - [Freecodecamp](https://www.freecodecamp.org/nairolf32)
 - [Pluralsight](https://app.pluralsight.com/profile/florian-edemessi)
 - [Microsoft](https://docs.microsoft.com/en-us/users/florianedemessi-2820/?source=docs)

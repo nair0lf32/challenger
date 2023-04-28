@@ -29,6 +29,8 @@ Or if instead reading is your passion, try:
 
 - [devdocs](https://devdocs.io/)
 - [The algorithms](https://the-algorithms.com/)
+- [zestedesavoir](https://zestedesavoir.com/@nairolf32)
+- [developpez.net](https://www.developpez.net/forums/u1227622/florian32/)
 
 Miscellanous:
 

@@ -2,12 +2,11 @@
 
 ![challenger-banner](images/challenger.jpg)
 
-Challenger (code) is a simple repository to display my mediocre competitive programming "skills" and show off a bit (big flex). I might not be very good yet but slowly getting there!
+Challenger (code) is a simple repository to display my mediocre competitive programming "skills" and show off a bit (big flex). I might not be very good yet but (very) slowly getting there!
 
 ## codersrank
 
 [![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nair0lf32&width=10&branding=false&badges=0&style=--header-bg-color:%23000")](https://profile.codersrank.io/user/nair0lf32/)
-
 
 
 ## Challenges
@@ -29,4 +28,4 @@ Challenger (code) is a simple repository to display my mediocre competitive prog
 - [codeforces](https://codeforces.com/profile/nairolf32)
 - [hackerearth](https://www.hackerearth.com/@florianedem)
 
-If you wanna see some of [my favorite learning places](./learning.md), [my certs](./certificates.md) or just the [tools I use](./tech.md) follow the links
+If you wanna see the [cool certs I got so far](./certificates.md) follow the link

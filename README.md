@@ -11,6 +11,7 @@ Challenger (code) is a simple repository to display my mediocre competitive prog
 
 ## Challenges
 
+- [codesignal](https://app.codesignal.com/profile/nairolf32/overview)
 - [Codepen](https://codepen.io/nair0lf32/)
 - [codesandbox](https://codesandbox.io/u/nairolf32)
 - [Hackerrank](https://www.hackerrank.com/nair0lf32)

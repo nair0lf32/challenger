@@ -8,20 +8,21 @@ Challenger (code) is a simple repository to display my mediocre competitive prog
 
 [![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nair0lf32&width=10&branding=false&badges=0&style=--header-bg-color:%23000")](https://profile.codersrank.io/user/nair0lf32/)
 
-## Challenges (Top platforms)  
+## Challenges (Top platforms) 
+
+<br> 
 
 [![](https://www.codewars.com/users/nair0lf32/badges/large)](https://www.codewars.com/users/nair0lf32)
 
-
-
-<a href="https://leetcode.com/nairolf32/"> <img src="https://leetcode.com/_next/static/images/logo-dark-c96c407d175e36c81e236fcfdd682a0b.png" alt="leetcode"> </a> 
-
-<a href="https://www.hackerrank.com/nair0lf32"> <img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="hackerrank" width=80> </a>
+<a href="https://leetcode.com/nairolf32/"> <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="leetcode" width=200> </a> 
 
 <a href="https://app.codesignal.com/profile/nairolf32/overview"> <img src="https://app.codesignal.com/img/logos/logo_white.svg" alt="codesignal" width=200> </a>
 
+<a href="https://www.hackerrank.com/nair0lf32"> <img src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="hackerrank" width=80> </a>
 
-## Others
+## Misc (Other platforms)
+
+<br>
 
 [![](https://projecteuler.net/profile/nairolf32.png)](https://projecteuler.net/)
 

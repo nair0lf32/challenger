@@ -35,7 +35,6 @@ Or if instead reading is your passion, try:
 Miscellanous:
 
 - [khan academy](https://fr.khanacademy.org/profile/me/) (for basics)
-- [Duolingo](https://www.duolingo.com/profile/FlorianEDE509379) (me no speak ingles)
 
 # Blogs
 
@@ -46,3 +45,5 @@ Listed from my favorite to less favorite
 - [Hackernoon](https://hackernoon.com/u/nairolf32)
 - [Dev.to](https://dev.to/nair0lf32)
 - [Medium](https://medium.com/@nairolf32)
+
+
